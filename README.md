@@ -1,1 +1,1 @@
-# trening_tasks
+# training_tasks
